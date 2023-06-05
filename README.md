@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aritra Chakraborty</h1>
 <h3 align="center">A passionate frontend/backend developer from India</h3>
 
-,img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7ujpwgI4AxuAVluz8WA6cF7t7tkwcKA9PQ&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7ujpwgI4AxuAVluz8WA6cF7t7tkwcKA9PQ&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-aritra-20&label=Profile%20views&color=0e75b6&style=flat" alt="its-aritra-20" /> </p>
 
