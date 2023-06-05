@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aritrac34904406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritrac34904406" height="30" width="40" /></a>
+<a href="https://twitter.com/AritraC69176242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritrac34904406" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aritra-chakraborty-60049625b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra-chakraborty-60049625b" height="30" width="40" /></a>
 <a href="https://fb.com/100021606051509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100021606051509" height="30" width="40" /></a>
 <a href="https://instagram.com/aritra._.ily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aritra._.ily" height="30" width="40" /></a>
