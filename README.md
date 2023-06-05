@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **its-aritra-20/its-aritra-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
