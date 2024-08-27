@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **DBMS**
 
-- 💬 Ask me about **Javascript, CSS, Machine Learning**
+- 💬 Ask me about **SpringBoot, Javascript, CSS, Machine Learning**
 
 - 📫 How to reach me **aritrapersonal.20@gmail.com**
 
